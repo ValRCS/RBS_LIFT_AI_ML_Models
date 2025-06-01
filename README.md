@@ -4,6 +4,10 @@ Machine Learning Foundation - Part of [LIFT AI program](https://rbs.lv/lift-cour
 
 Course Code and Materials Repository - https://github.com/ValRCS/RBS_LIFT_AI_ML_Models
 
+Open in Google Colab - <a target="_blank" href="https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/tree/main">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ![RBS](https://rbs.lv/wp-content/uploads/2023/08/logo2eng.svg)
 
 
