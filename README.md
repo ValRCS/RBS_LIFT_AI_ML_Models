@@ -1,5 +1,9 @@
 # RBS_LIFT_AI_ML_Models
-Machine Learning Foundation - Part of LIFT AI program
+Machine Learning Foundation - Part of [LIFT AI program](https://rbs.lv/lift-courses/lift-ai-machine-learning-models/)
+
+![RBS](https://rbs.lv/wp-content/uploads/2023/08/logo2eng.svg)
+
+
 
 ## Course Description
 
