@@ -4,9 +4,9 @@ Machine Learning Foundation - Part of [LIFT AI program](https://rbs.lv/lift-cour
 
 Course Code and Materials Repository - https://github.com/ValRCS/RBS_LIFT_AI_ML_Models
 
-Open in Google Colab - <a target="_blank" href="https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/tree/main">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+First Session Open In Google - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Session_1_Course_Introduction.ipynb)
+
+
 
 ![RBS](https://rbs.lv/wp-content/uploads/2023/08/logo2eng.svg)
 
@@ -15,6 +15,7 @@ Open in Google Colab - <a target="_blank" href="https://colab.research.google.co
 ## Course Description
 
 This intensive course provides a comprehensive foundation in machine learning, equipping participants with the skills to build and deploy effective models. By delving into core concepts, algorithms, and practical applications, learners will gain hands-on experience in data preprocessing, model training, and evaluation. This course empowers individuals to apply machine learning techniques to solve real-world problems across various industries and drive innovation. Upon completion, participants will be equipped to confidently tackle complex data challenges and contribute to data-driven decision-making within their organizations.
+
 
 ## Course Goals
 
