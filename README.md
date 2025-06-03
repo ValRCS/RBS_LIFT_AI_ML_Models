@@ -16,6 +16,11 @@ https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/
 
 ![RBS](https://rbs.lv/wp-content/uploads/2023/08/logo2eng.svg)
 
+## Videos
+
+![June 2025 Recordings ](https://www.youtube.com/playlist?list=PLdny-WHphTZ7iFxZXHVzYb3Z-wW8l9ljN)
+Note: sound is quite low, first session has no sound
+
 
 
 ## Course Description
