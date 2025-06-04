@@ -15,6 +15,7 @@ This checklist can guide you through your machine learning projects. There are e
 *Obviously, you should feel free to adapt this checklist to your needs. In other words it depends on what you are trying to do*
 
 Adopted from: Hands-On Machine Learning by Aurélien Géron
+
 ---
 
 ## 1. Frame the Problem and Look at the Big Picture
