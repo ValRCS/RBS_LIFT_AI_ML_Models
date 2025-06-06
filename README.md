@@ -16,8 +16,12 @@ https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/
 https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/02_end_to_end_machine_learning_project.ipynb)
 
 * Day 3 - Fitting and Overfitting [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Curve_Fitting_Overfitting_Regression.ipynb)
-* 
+  
 * Day 3 - Clustering [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/plot_cluster_comparison.ipynb)
+  
+* Day 3 - Classifier with Artificial Neural Network - ANN - Keras,Tensorflow [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/plot_cluster_comparison.ipynb](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/keras_image_recognition_classifier_using_neural_networks.ipynb)
+
+  
 
 ![RBS](https://rbs.lv/wp-content/uploads/2023/08/logo2eng.svg)
 
