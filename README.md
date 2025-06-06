@@ -19,7 +19,7 @@ https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/
   
 * Day 3 - Clustering [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/plot_cluster_comparison.ipynb)
   
-* Day 3 - Classifier with Artificial Neural Network - ANN - Keras,Tensorflow [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/plot_cluster_comparison.ipynb](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/keras_image_recognition_classifier_using_neural_networks.ipynb)
+* Day 3 - Classifier with Artificial Neural Network - ANN - Keras,Tensorflow [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/keras_image_recognition_classifier_using_neural_networks.ipynb)
 
   
 
