@@ -20,6 +20,8 @@ Course Code and Materials Repository - https://github.com/ValRCS/RBS_LIFT_AI_ML_
 * Practical Classification Session in Google Colab - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Irises_Data_Analysis_Workflow_Clean.ipynb)
 
+* [Practice Wine Classification](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/wine_classification_starter.ipynb)
+
 ## Day 2 - Regression
 * Day 2 - Hands On Practical Machine Learning Project Housing Regression - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/02_end_to_end_machine_learning_project.ipynb)
