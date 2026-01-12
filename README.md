@@ -4,6 +4,11 @@ Machine Learning Foundation - Part of [LIFT AI program](https://rbs.lv/lift-cour
 
 Course Code and Materials Repository - https://github.com/ValRCS/RBS_LIFT_AI_ML_Models
 
+## Before you start
+
+👉 Please take **2 minutes** to complete this **anonymous background survey**:  
+[SURVEY](https://forms.gle/PRyd2duSL8K4wivr9)
+
 ## Day 1 - Basics of ML, Notebooks, Classification Workflow
 
 * First Session Open In Google - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Session_1_Course_Introduction.ipynb)
