@@ -13,8 +13,9 @@ Course Code and Materials Repository - https://github.com/ValRCS/RBS_LIFT_AI_ML_
 
 * First Session Open In Google - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Session_1_Course_Introduction.ipynb)
 
-* Second Session Open in Google - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Session_2_ML_Process_Overview.ipynb)
+* Second Session Open in Google - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Session_2_ML_Process_Python_Jupyter_Notebooks.ipynb)
+
+
 
 * Practical Classification Session in Google Colab - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Irises_Data_Analysis_Workflow_Clean.ipynb)
