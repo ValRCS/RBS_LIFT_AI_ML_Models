@@ -36,6 +36,7 @@ https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/
 * Day 3 - Improving ANN classifier with deeper architecture [Run This in GPU TR Google Colab](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Improving_Image_Classification_Neural_Network.ipynb)
 Under Connect Select Change Runtime to T4 (GPU) instance - otherwise these models will run very slow on CPU.
 
+* Day 3 - Classification with PyTorch and NN [PyTorch Class](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Classification_with_PyTorch.ipynb)
   
 
 ![RBS](https://rbs.lv/wp-content/uploads/2023/08/logo2eng.svg)
