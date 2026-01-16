@@ -4,6 +4,8 @@ Machine Learning Foundation - Part of [LIFT AI program](https://rbs.lv/lift-cour
 
 Course Code and Materials Repository - https://github.com/ValRCS/RBS_LIFT_AI_ML_Models
 
+contacts: valdis.saulespurens@rtu.lv
+
 ## Before you start
 
 👉 Please take **2 minutes** to complete this **anonymous background survey**:  
