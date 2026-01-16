@@ -33,6 +33,11 @@ https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/
   
 * Day 3 - Classifier with Artificial Neural Network - ANN - Keras,Tensorflow [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/keras_image_recognition_classifier_using_neural_networks.ipynb)
 
+* Day 3 - Improving ANN classifier with deeper architecture
+
+![Run This in GPU TR Google Colab](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Improving_Image_Classification_Neural_Network.ipynb)
+Under Connect Select Change Runtime to T4 (GPU) instance - otherwise these models will run very slow on CPU.
+
   
 
 ![RBS](https://rbs.lv/wp-content/uploads/2023/08/logo2eng.svg)
