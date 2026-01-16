@@ -37,6 +37,11 @@ https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/
 Under Connect Select Change Runtime to T4 (GPU) instance - otherwise these models will run very slow on CPU.
 
 * Day 3 - Classification with PyTorch and NN [PyTorch Class](https://colab.research.google.com/github/ValRCS/RBS_LIFT_AI_ML_Models/blob/main/notebooks/Classification_with_PyTorch.ipynb)
+* 
+
+## Choosing the right ML tool
+
+* [ML Guidemap](https://scikit-learn.org/stable/machine_learning_map.html)
   
 
 ![RBS](https://rbs.lv/wp-content/uploads/2023/08/logo2eng.svg)
